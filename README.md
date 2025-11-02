@@ -2,7 +2,7 @@
 # 👋 Salut, moi c’est Madouss 
 
 Ergonome et UX/UI designer, actuellement en formation de **concepteur développeur d’applications web** chez **O’clock**.  
-Je m’intéresse à la conception d’expériences numériques accessibles, utiles et bien pensées — du **design centré utilisateur** jusqu’au **développement**.
+Je m’intéresse à la conception d’expériences numériques accessibles, utiles et bien pensées du **design centré utilisateur** jusqu’au **développement**.
 
 🎯 **Objectif :** trouver un **stage à partir de janvier 2026** pour mettre en pratique mes compétences techniques et continuer à créer des interfaces centrées sur l’humain.
 
