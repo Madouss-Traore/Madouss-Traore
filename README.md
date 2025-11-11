@@ -4,6 +4,12 @@
 Ergonome et UX/UI designer, actuellement en formation de **concepteur développeur d’applications web** chez **O’clock**.  
 Je m’intéresse à la conception d’expériences numériques accessibles, utiles et bien pensées du **design centré utilisateur** jusqu’au **développement**.
 
+## Mon Portfolio
+
+Mon portfolio est disponible à l'adresse suivante :  
+👉 [madouss-traore.github.io/My-portfolio](https://madouss-traore.github.io/My-portfolio/)
+
+
 🎯 **Objectif :** trouver un **stage à partir de janvier 2026** pour mettre en pratique mes compétences techniques et continuer à créer des interfaces centrées sur l’humain.
 
 ---
